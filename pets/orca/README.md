@@ -2,15 +2,25 @@
 
 [Collection](../../README.md) · [Installation](../../docs/INSTALLATION.md)
 
-A gentle dark orca companion for Orca ADE.
+![Orca preview](preview.png)
+
+A cute little orca companion for Orca ADE.
 
 ## The joke
 
-> Orca ni orca wa oruka?
+> Orcaにオルカはおるか？ 🐋
+> 
+> Is there an orca in Orca?
 
-“Is there an orca in Orca?”
+In Japanese, orca is written as オルカ (oruka), which sounds like おるか？ (oru ka?) — a casual, regional way of asking "Is it there?"
 
-In Japanese, the animal name **orca** is pronounced *oruka* (オルカ). That sounds like *oru ka?* (おるか？), a casual, dialectal way to ask “Is it there?”. With the app named Orca too, the question gets three matching sounds for the price of one dad joke.
+So the question becomes a playful tongue twister:
+
+**"Orca ni orca wa oru ka?"**
+
+An orca in Orca? Of course! It's right here! 🐋❤️
+
+**Some questions have adorable answers.** ❤️
 
 ## Bundle
 

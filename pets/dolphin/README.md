@@ -2,15 +2,25 @@
 
 [Collection](../../README.md) · [Installation](../../docs/INSTALLATION.md)
 
-A gentle blue dolphin companion for Orca ADE.
+![Dolphin preview](preview.png)
+
+A cute little dolphin companion for Orca ADE.
 
 ## The joke
 
-> Orca ni iruka wa iruka?
+> Orcaにイルカはいるか？ 🐬
+> 
+> Is there a dolphin in Orca?
 
-“Is there a dolphin in Orca?”
+In Japanese, dolphin is イルカ (iruka), which sounds exactly like いるか？ (iru ka?) — meaning "Is it there?"
 
-The Japanese word **iruka** (イルカ) means “dolphin”. Split the same sounds into *iru ka?* (いるか？), and they become “Is it there?”. The sentence asks whether Orca has a dolphin while saying *iruka* twice: once for the animal and once for the question.
+Put them together, and you get a playful question:
+
+**"Orca ni iruka wa iru ka?"**
+
+A dolphin in Orca? Absolutely! And it's ready to swim! 🐬❤️
+
+**Some questions deserve a splashy answer.** ❤️
 
 ## Bundle
 

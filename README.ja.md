@@ -6,18 +6,26 @@
 
 本プロジェクトは Orca ADE およびその開発者とは関係がなく、公認・推奨を受けたものではありません。
 
+| 🐋 Orca | 🐬 Dolphin |
+|:---:|:---:|
+| [![Orca](pets/orca/preview.png)](pets/orca/README.md) | [![Dolphin](pets/dolphin/preview.png)](pets/dolphin/README.md) |
+| 🐞 Ladybug | 🐧 Penguin |
+| [![Ladybug](pets/ladybug/preview.png)](pets/ladybug/README.md) | [![Penguin](pets/penguin/preview.png)](pets/penguin/README.md) |
+
 ## ペットたち
 
 | ペット | ダジャレ | 詳細 |
 | --- | --- | --- |
-| Orca（シャチ） | “Orca ni orca wa oruka?” — 「Orca にオルカはおるか？」 | [Orca（英語）](pets/orca/README.md) |
-| Dolphin（イルカ） | “Orca ni iruka wa iruka?” — 「Orca にイルカはいるか？」 | [Dolphin（英語）](pets/dolphin/README.md) |
-| Ladybug（テントウムシ） | “There's a bug in Orca! Don't fix it. It's my pet!” — 「Orca にバグが！ 直さないで。私のペットだから！」 | [Ladybug（英語）](pets/ladybug/README.md) |
-| Penguin（ペンギン） | “Status: PENGUIN. Still pending...” — 「状態：ペンギン。まだ保留中……」 | [Penguin（英語）](pets/penguin/README.md) |
+| Orca（シャチ）  🐋 | “Orca ni orca wa oru ka?” — 「Orca にオルカはおるか？」 | [Orca（英語）](pets/orca/README.md) |
+| Dolphin（イルカ）  🐬 | “Orca ni iruka wa iru ka?” — 「Orca にイルカはいるか？」 | [Dolphin（英語）](pets/dolphin/README.md) |
+| Ladybug（テントウムシ）   🐞 | “There's a bug in Orca! Don't fix it. It's my pet!” — 「Orca にバグが！ 直さないで。私のペットだから！」 | [Ladybug（英語）](pets/ladybug/README.md) |
+| Penguin（ペンギン）  🐧 | “Status: PENGUIN! Oops, I mean PENDING...” — 「状態：ペンギン！ あっ、保留中の間違い……」 | [Penguin（英語）](pets/penguin/README.md) |
 
-最初のふたつは日本語の音を使ったダジャレです。**Orca** の読み「オルカ」を「おるか？」に、**イルカ**を「いるか？」に重ねています。英語の各ペットページでも、日本語を知らない読者向けに意味を説明しています。
+最初の2つは日本語の音を使ったダジャレです。**Orca** の読み「オルカ」を「おるか？」に、**イルカ**を「いるか？」に重ねています。英語の各ペットページでも、日本語を知らない読者向けに意味を説明しています。
 
-Ladybug は、ソフトウェアの不具合を意味する **bug** と、虫としての **bug** をかけたジョークです。Penguin は **Pending**（保留中）と **Penguin**（ペンギン）を組み合わせ、ふざけた状態表示に見立てています。これはこのコレクションのために作った言葉遊びで、一般的な英語表現ではありません。
+**Ladybug** は、ソフトウェアの不具合を意味する **bug** と、虫としての **bug** をかけたジョークです。普段なら直すべきバグも、かわいいペットなら直したくない！
+
+**Penguin** は、**Pending**（保留中）と **Penguin**（ペンギン）を取り違えたような、遊び心のある状態表示です。このコレクションのために作った言葉遊びで、一般的な英語表現ではありません。
 
 ## インストール
 

@@ -1,16 +1,28 @@
-# Penguin
+# Penguin 🐧
 
 [Collection](../../README.md) · [Installation](../../docs/INSTALLATION.md)
 
-A cute chibi penguin companion for Orca ADE.
+![Pending Penguin preview](preview.png)
+
+A cute little penguin companion for Orca ADE.
 
 ## The joke
 
-> Status: PENGUIN. Still pending...
+> Status: PENGUIN! 🐧
+> 
+> Oops, I mean PENDING... ⏳
 
-**Pending** means something is still waiting. **Penguin** is the companion keeping you company while you wait. This joke swaps an ordinary status label for a bird, pairing the two words simply for fun.
+In software development, **pending** means something is still waiting to be completed.
 
-This is invented wordplay for the collection, not a conventional English expression or an established meaning of “penguin”.
+But what if your pending task turned into a **penguin** instead?
+
+Meet a tiny penguin who waddles around, takes little steps, and keeps you company while you wait.
+
+This is a playful pun on the words **pending** and **penguin**, not a conventional English expression.
+
+The task may still be pending, but your penguin is already here! 🐧❤️
+
+**Some things are worth waiting for.** ❤️
 
 ## Bundle
 

@@ -1,14 +1,22 @@
-# Ladybug
+# Ladybug 🐞
 
 [Collection](../../README.md) · [Installation](../../docs/INSTALLATION.md)
 
-A cute ladybug companion for Orca ADE.
+![Ladybug preview](preview.png)
+
+A cute little ladybug companion for Orca ADE.
 
 ## The joke
 
-> There's a bug in Orca! Don't fix it. It's my pet!
+> There's a bug in Orca! 🐞
+> 
+> Don't fix it. It's my pet! ❤️
 
-In software, a “bug” is usually something to fix. This one is a little insect you invited to stay. The joke turns a bug report into a request to keep your companion around.
+In software development, a "bug" is something you usually want to fix.
+
+But this bug is different. It's an adorable little companion living in Orca!
+
+**Some bugs are worth keeping.** ❤️
 
 ## Bundle
 

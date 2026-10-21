@@ -6,18 +6,26 @@ An unofficial community collection of cute animated pets for [Orca ADE](https://
 
 This project is not affiliated with or endorsed by Orca ADE or its developers.
 
+| 🐋 Orca | 🐬 Dolphin |
+|:---:|:---:|
+| [![Orca](pets/orca/preview.png)](pets/orca/README.md) | [![Dolphin](pets/dolphin/preview.png)](pets/dolphin/README.md) |
+| 🐞 Ladybug | 🐧 Penguin |
+| [![Ladybug](pets/ladybug/preview.png)](pets/ladybug/README.md) | [![Penguin](pets/penguin/preview.png)](pets/penguin/README.md) |
+
 ## Meet the pets
 
-| Pet | The joke | Details |
-| --- | --- | --- |
-| Orca | “Orca ni orca wa oruka?” — “Is there an orca in Orca?” | [Orca](pets/orca/README.md) |
-| Dolphin | “Orca ni iruka wa iruka?” — “Is there a dolphin in Orca?” | [Dolphin](pets/dolphin/README.md) |
-| Ladybug | “There's a bug in Orca! Don't fix it. It's my pet!” | [Ladybug](pets/ladybug/README.md) |
-| Penguin | “Status: PENGUIN. Still pending...” | [Penguin](pets/penguin/README.md) |
+| Pet       | The joke                                                   | Details                           |
+| --------- | ---------------------------------------------------------- | --------------------------------- |
+| Orca 🐋    | “Orca ni orca wa oru ka?” — “Is there an orca in Orca?”    | [Orca](pets/orca/README.md)       |
+| Dolphin 🐬 | “Orca ni iruka wa iru ka?” — “Is there a dolphin in Orca?” | [Dolphin](pets/dolphin/README.md) |
+| Ladybug 🐞 | “There's a bug in Orca! Don't fix it. It's my pet!”        | [Ladybug](pets/ladybug/README.md) |
+| Penguin 🐧 | “Status: PENGUIN! Oops, I mean PENDING...”                 | [Penguin](pets/penguin/README.md) |
 
-The first two jokes play on Japanese sounds. **Orca** becomes *oruka* in Japanese, which sounds like *oru ka?* (“Is it there?”). **Iruka** means “dolphin” and sounds exactly like *iru ka?*, another way to ask “Is it there?”. The pet pages explain each joke in more detail.
+The first two jokes play on Japanese sounds. **Orca** is written as オルカ (oruka) in Japanese, which sounds like おるか？ (oru ka?), a casual, regional way of asking "Is it there?". **Iruka** (イルカ) means "dolphin" and sounds exactly like いるか？ (iru ka?), another way to ask "Is it there?". The individual pet pages explain these jokes in more detail.
 
-Ladybug gives a software “bug” a friendlier meaning: an insect companion. Penguin pairs **Pending** with **Penguin** as a silly status label. The penguin joke is invented wordplay, not a conventional English expression.
+**Ladybug** turns a software "bug" into an adorable insect companion — one you wouldn't want to fix!
+
+**Penguin** playfully mixes up **Pending** and **Penguin** as a silly status message. It's invented wordplay, not a conventional English expression.
 
 ## Installation
 
