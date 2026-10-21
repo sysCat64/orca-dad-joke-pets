@@ -35,4 +35,4 @@ The manifest defines nine animation states: `idle`, `running-right`, `running-le
 
 ## Project status
 
-Part of Orca Dad Joke Pets, an unofficial community collection not affiliated with or endorsed by Orca ADE or its developers. Licensing is undecided. Installation and animation behavior have not been tested in Orca ADE during this documentation phase.
+Part of Orca Dad Joke Pets, an unofficial community collection not affiliated with or endorsed by Orca ADE or its developers. Licensed under the [MIT License](../../LICENSE). Basic in-app checks have passed. Comprehensive testing of all animation states and platforms has not yet been completed.

@@ -65,4 +65,12 @@ See [pet validation](docs/VALIDATION.md) for the read-only Python validator, dep
 
 ## License
 
-Licensing is undecided. No license has been selected for this repository.
+**Orca Dad Joke Pets** is released under the [MIT License](LICENSE).
+
+The license covers the original source code, documentation, pet manifests, character artwork, and spritesheets in this repository, as well as the original portions of preview images, **to the extent that the project contributors have rights they can license**.
+
+Commercial use, modification, and redistribution are permitted under the MIT License, provided that the required copyright and license notices are retained.
+
+**Third-party materials:** Orca ADE names, trademarks, logos, and application UI elements appearing in screenshots are not licensed by this project and remain subject to their respective owners' rights. This is an unofficial community project, not affiliated with or endorsed by Orca ADE or its developers.
+
+The character artwork was created with AI assistance. This project does not claim exclusive copyright in elements that are not eligible for copyright protection or rights in third-party materials.

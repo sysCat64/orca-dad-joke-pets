@@ -20,7 +20,7 @@ git clone https://github.com/sysCat64/orca-dad-joke-pets.git
 cd orca-dad-joke-pets
 ```
 
-Alternatively, use **Code → Download ZIP** on the repository's GitHub page, then extract the archive. While the repository is private, either method requires repository access; HTTPS cloning also requires configured Git authentication.
+Alternatively, use **Code → Download ZIP** on the repository's GitHub page, then extract the archive.
 
 Choose one of these directories from your local copy:
 
@@ -69,6 +69,6 @@ The instructions were checked on **2026-10-21** against the official [stablyai/o
 | [Status-bar pet menu](https://github.com/stablyai/orca/blob/505d6719c075eb0344dac86867a4e4030e970a1d/src/renderer/src/components/status-bar/PetStatusSegment.tsx) | Choose pet, bundle import, selection and visibility after import, size controls, and restart guidance. |
 | [Bundle importer](https://github.com/stablyai/orca/blob/505d6719c075eb0344dac86867a4e4030e970a1d/src/main/ipc/pet-bundle-import.ts) | Directory or file selection, manifest loading, and copying the bundle into Orca's pet storage. |
 
-This is source verification, not an in-app installation test. A minimum released version and platform-specific installation and animation behavior remain unverified. The `.codex-pet` directory name describes the package format; this guide covers Orca ADE.
+The installation procedure was checked against Orca's source code. Basic in-app checks of all four pets have also passed. The minimum supported Orca version and cross-platform compatibility have not yet been established.
 
-Licensing remains undecided; no license has been selected for this repository.
+Licensed under the [MIT License](../LICENSE).
