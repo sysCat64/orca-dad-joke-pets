@@ -51,6 +51,10 @@ Follow the [installation guide](docs/INSTALLATION.md) for download steps, the ex
 
 Each `.codex-pet` directory is a pet bundle containing `pet.json` and `spritesheet.webp`. Keep those files together when importing. Each manifest defines nine animation states; see the individual pet READMEs for package details.
 
+## Validation
+
+See [pet validation](docs/VALIDATION.md) for the read-only Python validator, dependencies, and automated tests.
+
 ## License
 
 Licensing is undecided. No license has been selected for this repository.

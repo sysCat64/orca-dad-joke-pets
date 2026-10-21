@@ -1,3 +1,8 @@
 # macOS Finder metadata
 .DS_Store
 ._*
+
+# Local Python validation environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
