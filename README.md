@@ -31,7 +31,7 @@ The first two jokes play on Japanese sounds. **Orca** is written as オルカ (o
 
 Use Orca's **Import .codex-pet bundle…** menu to import one of the folders below. You need an Orca build with the experimental **Pet** feature and bundle import support.
 
-Follow the [installation guide](docs/INSTALLATION.md) for download steps, the exact menu path, troubleshooting, and official source references. The procedure has been checked against Orca's source code; installation and animation behavior have not been tested in the app during this documentation phase.
+Follow the [installation guide](docs/INSTALLATION.md) for download steps, the exact menu path, troubleshooting, and official source references. The procedure has been checked against Orca's source code. Basic in-app checks of all four pets have passed. Comprehensive testing of all animation states and platforms has not yet been completed.
 
 ## Repository layout
 
